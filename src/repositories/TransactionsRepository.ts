@@ -43,6 +43,7 @@ class TransactionsRepository {
         outcome: 0,
       },
     );
+
     return {
       income: balance.income,
       outcome: balance.outcome,
